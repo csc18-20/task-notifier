@@ -1,4 +1,4 @@
-Creating and Monitoring Geofences
+<h3>Creating and Monitoring Geofences</h3>
 Demonstrates how to create and remove geofences using the GeofencingApi. Monitor geofence transitions and creates notifications whenever a device enters or exits a geofence.
 
 Introduction
@@ -8,7 +8,7 @@ Location Services treats a geofences as an area rather than as a points and prox
 
 To run this sample, location must be enabled.
 
-Prerequisites
+<h5>Prerequisites</h5>
 Android API Level >v9
 Android Build Tools >v21
 Google Support Repository
